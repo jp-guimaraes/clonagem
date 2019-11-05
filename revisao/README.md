@@ -18,7 +18,17 @@ Comando| Funcionalidade
 `rm`| Deleta arquivos e diretórios
 `mkdir`|Creates a new directory
 
+
+O comando `cd` vai para o diretório passado como parâmetro. Veja:
+
 ```shell
-mkdir
+
 
 ````
+
+
+
+
+
+
+O [terminalizer](https://github.com/faressoft/terminalizer) foi usado para criar os gifs desse Markdown.
