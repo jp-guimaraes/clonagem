@@ -22,10 +22,12 @@ Comando| Funcionalidade
 O comando `cd` vai para o diretório passado como parâmetro. Veja:
 
 ```shell
-
+cd nome_do_diretorio
 
 ````
+Com esse comando, estou entrando no diretório nome_do_diretorio. Exemplo:
 
+![Bash cmd cd](https://github.com/jp-guimaraes/clonagem/blob/master/assets/terminal_gifs/cmd_cd.gif)
 
 
 
