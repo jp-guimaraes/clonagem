@@ -68,6 +68,8 @@ Veja:
 ![Bash cmd cd](https://github.com/jp-guimaraes/clonagem/blob/master/assets/terminal_gifs/cmd_cd.gif)
 
 
+Se eu quisesse voltar ao diretório anterior basta usar o comando `cd ..`
+
 
 
 
