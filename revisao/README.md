@@ -71,6 +71,28 @@ Veja:
 Se eu quisesse voltar ao diretório anterior basta usar o comando `cd ..`
 
 
+Para criar um diretório o comando `mkdir` é usado. Basta fazer
+
+```shell
+mkdir nome_do_diretorio
+``` 
+para criar um novo diretório chamado nome_do_diretorio. Veja:
+
+
+![Bash cmd cd](https://github.com/jp-guimaraes/clonagem/blob/master/assets/terminal_gifs/cmd_mkdir.gif)
+
+
+
+Para mover diretórios e arquivos para dentro de pastas é utilizado o comando `mv`:
+
+```shell
+mv diretorio_ou_arquivo_origem diretorio_destino
+```
+
+No exemplo abaixo, usamos como entrada `*.yml`, ou seja, todos os arquivos com final `.yml` são movidos para o diretório destino.
+![Bash cmd cd](https://github.com/jp-guimaraes/clonagem/blob/master/assets/terminal_gifs/cmd_mv.gif)
+
+
 
 
 O [terminalizer](https://github.com/faressoft/terminalizer) foi usado para criar os gifs desse Markdown.

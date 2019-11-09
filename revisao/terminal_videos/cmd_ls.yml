@@ -9,7 +9,7 @@ config:
   
   # Specify the current working directory path
   # the default is the current working directory path
-  cwd: /home/jp
+  cwd: /mnt/c/Users/jpaul/Desktop/github/clonagem/revisao/terminal_videos
   
   # Export additional ENV variables
   env:
@@ -111,15 +111,7 @@ config:
   
 # Records, feel free to edit them
 records:
-  - delay: 1574
-    content: "\e]0;jp@LAPTOP-H9RO59VV: ~\a\e[01;32mjp@LAPTOP-H9RO59VV\e[00m:\e[01;34m~\e[00m$ "
-  - delay: 3142
-    content: l
-  - delay: 84
-    content: s
-  - delay: 210
-    content: "\r\n"
-  - delay: 11
-    content: "\e[0m\e[01;36mDesktop\e[0m  \e[01;36mgithub\e[0m\r\n\e]0;jp@LAPTOP-H9RO59VV: ~\a\e[01;32mjp@LAPTOP-H9RO59VV\e[00m:\e[01;34m~\e[00m$ "
-  - delay: 1977
+  - delay: 4230
+    content: "\e]0;jp@LAPTOP-H9RO59VV: ~/github/clonagem/revisao/terminal_videos\a\e[01;32mjp@LAPTOP-H9RO59VV\e[00m:\e[01;34m~/github/clonagem/revisao/terminal_videos\e[00m$ "
+  - delay: 3550
     content: "logout\r\n"
