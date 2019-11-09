@@ -39,7 +39,16 @@ pwd
 ````
 ## ls
 
-O comando `ls` exibe o conteúdo do diretório atual, mostrando arquivos e pastas. Uma opção interessante a ser acrescentada ao comando é a opção -all
+O comando `ls` exibe o conteúdo do diretório atual, mostrando arquivos e pastas. 
+
+```shell
+ls
+```
+Veja:
+
+![Bash cmd ls](https://github.com/jp-guimaraes/clonagem/blob/master/assets/terminal_gifs/cmd_ls.gif)
+
+Uma opção interessante a ser acrescentada ao comando é a opção -all, que inclui na exibição informações sobre permissões, datas de modificação e tamanho de arquivos. O uso é assim: `ls -all`.
 
 ## cd
 
