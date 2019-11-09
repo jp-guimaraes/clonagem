@@ -79,7 +79,7 @@ mkdir nome_do_diretorio
 para criar um novo diretório chamado nome_do_diretorio. Veja:
 
 
-![Bash cmd cd](https://github.com/jp-guimaraes/clonagem/blob/master/assets/terminal_gifs/cmd_mkdir.gif)
+![Bash cmd mkdir](https://github.com/jp-guimaraes/clonagem/blob/master/assets/terminal_gifs/cmd_mkdir.gif)
 
 
 
@@ -90,7 +90,7 @@ mv diretorio_ou_arquivo_origem diretorio_destino
 ```
 
 No exemplo abaixo, usamos como entrada `*.yml`, ou seja, todos os arquivos com final `.yml` são movidos para o diretório destino.
-![Bash cmd cd](https://github.com/jp-guimaraes/clonagem/blob/master/assets/terminal_gifs/cmd_mv.gif)
+![Bash cmd mv](https://github.com/jp-guimaraes/clonagem/blob/master/assets/terminal_gifs/cmd_mv.gif)
 
 
 
