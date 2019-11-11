@@ -37,6 +37,12 @@ O comando `pwd` tem a função de exibir qual o diretório atual. O uso do coman
 ```shell
 pwd
 ````
+Veja:
+
+
+![Bash cmd pwd](https://github.com/jp-guimaraes/clonagem/blob/master/assets/terminal_gifs/cmd_pwd.gif)
+
+
 ## ls
 
 O comando `ls` exibe o conteúdo do diretório atual, mostrando arquivos e pastas. 
